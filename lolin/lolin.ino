@@ -3,7 +3,7 @@
 
 #include <ESP8266WiFi.h>
 
-#define Relay1 D1
+#define Relay1 12
 
 // 와이파이명
 #define WLAN_SSID "moon"
